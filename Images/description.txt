@@ -1,0 +1,1 @@
+This folder contains png images of planets, sun & moon that are used in our project
